@@ -9,6 +9,8 @@ body {
 }
 
 section {
+  display: flex; /*added for desktop and mobile flexibility*/
+  flex-wrap: wrap;
   background-color: white;
   margin: 50px 50px;
   border-radius: 4px;
