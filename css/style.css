@@ -44,3 +44,7 @@ span.contact-address {
   height: 90px;
   border-radius: 100px;
 }
+
+.lola-photo {
+  object-fit: cover;
+}
