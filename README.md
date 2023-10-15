@@ -1,4 +1,4 @@
-# RampUp Day03 Exercise: Newspaper
+# RampUp Day04 Exercise: Contacts
 
 In this exercise, the objective was creating a contact list with the use of flexboxes.
 
